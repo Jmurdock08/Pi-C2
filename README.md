@@ -19,3 +19,4 @@ unzip cloudc2.zip
 
 ![initial run](https://github.com/user-attachments/assets/10704980-9a2a-4d0f-9978-0498982589e4)
 
+#This will create your c2.db file. If you change Hostnames you will need to rerun this command and copy the new c2.db file in the location shown in the following steps!
