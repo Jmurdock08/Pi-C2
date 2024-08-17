@@ -35,5 +35,16 @@ Now we are going to set up the c2 so it starts as a service whenever the device 
 
 ![systemprep](https://github.com/user-attachments/assets/bd69c2f1-2e1b-4193-8df0-ac9bfab9615a)
 
+Now we will need to create a service file for C2.
+NOTE: If you change the hostname from an private IP to a public you will need to edit this file as well!
+
+```sudo nano /etc/systemd/system/cloudc2.service```
+
+![c2service file](https://github.com/user-attachments/assets/b80d7aee-1c3b-43b8-995d-c9df77962824)
 
 
+Now hit ctrl x, y, and finally enter.
+
+
+
+If you are running this internally in your homelab theres no need to continue past this point. However if you want to be able to access it from anywhere in the world continue!
