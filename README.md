@@ -62,7 +62,7 @@ Now we need to reload the systemctl daemon, Enable the services on boot, start t
 
 ![servicestatus](https://github.com/user-attachments/assets/feb5c4ac-37a4-421e-8be9-3b50c95d7374)
 
-Now we must validate our c2 instance by entering the appropriate token (This was created the first time we ran our c2 instance and license(You should receive this in your email from HAK5)
+Now we must validate our c2 instance by entering the appropriate token (This was created the first time we ran our c2 instance.  The tokens are located where the grey boxes are in the picture above.) and license (You should receive this in your email from HAK5)
 
 ![c2tokensetup](https://github.com/user-attachments/assets/a5a1a9bc-266a-46ab-bd7d-6a775760fa3c)
 
