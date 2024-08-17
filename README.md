@@ -46,9 +46,21 @@ NOTE: If you change the hostname from an private IP to a public you will need to
 
 ![c2service file](https://github.com/user-attachments/assets/b80d7aee-1c3b-43b8-995d-c9df77962824)
 
-
 Now hit ctrl x, y, and finally enter.
 
+Now we need to reload the systemctl daemon, Enable the services on boot, start the service and check the status of the service!
+
+```sudo systemctl daemon-reload```
+
+```sudo systemctl enable cloudc2.service```
+
+```sudo systemctl start cloudc2.service```
+
+![servicestart](https://github.com/user-attachments/assets/a775e018-5f1e-4c9b-ac70-3d8ddf5294f7)
+
+```sudo systemctl status cloudc2.service```
+
+![servicestatus](https://github.com/user-attachments/assets/feb5c4ac-37a4-421e-8be9-3b50c95d7374)
 
 
 If you are running this internally in your homelab theres no need to continue past this point. However if you want to be able to access it from anywhere in the world continue!
