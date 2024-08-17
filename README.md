@@ -4,7 +4,7 @@ Self Hosted CloudC2 on Raspberry Pi for your HAK5 devices to connect to!
 This will not run without a license from HAK5. You can get the community edition for free at 
 https://shop.hak5.org/products/c2#c2-versions
 
-**To validate the license the Pi must be connected to the internet**
+***To validate the license the Pi must be connected to the internet***
 
 ```wget -q https://c2.hak5.org/download/latest -O cloudc2.zip```
 ![wget](https://github.com/user-attachments/assets/e7bfc623-f58c-4e9b-af1c-c00e91594ca0)
