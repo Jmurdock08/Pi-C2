@@ -23,3 +23,11 @@ Self Hosted CloudC2 on Raspberry Pi
 #This will create your c2.db file. If you change Hostnames you will need to rerun this command 
 and copy the new c2.db file in the location shown in the following steps!
 ie: when we move this from a private ip to a public ip.
+
+Now we are going to set up the c2 so it starts as a service whenever the device powers on!
+
+```sudo mv c2-3.4.0_armv8_linux /usr/local/bin```
+
+```sudo mkdir /var/cloudc2```
+
+```sudo mv c2.db /var/cloudc2```
