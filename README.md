@@ -1,5 +1,5 @@
-# Pi-C2
-Self Hosted CloudC2 on Raspberry Pi
+Pi-C2
+Self Hosted CloudC2 on Raspberry Pi for your HAK5 devices to connect to!
 
 ```wget -q https://c2.hak5.org/download/latest -O cloudc2.zip```
 ![wget](https://github.com/user-attachments/assets/e7bfc623-f58c-4e9b-af1c-c00e91594ca0)
@@ -14,13 +14,13 @@ Self Hosted CloudC2 on Raspberry Pi
 
 ![mkdir](https://github.com/user-attachments/assets/68a01e05-5b97-4e3f-a09e-ca89b80d8f36)
 
-#run cloud c2
+Run cloud c2
 
 ```./c2-3.4.0_armv8_linux -hostname 10.72.6.10```
 
 ![initial run](https://github.com/user-attachments/assets/10704980-9a2a-4d0f-9978-0498982589e4)
 
-#This will create your c2.db file. If you change Hostnames you will need to rerun this command 
+This will create your c2.db file. If you change Hostnames you will need to rerun this command 
 and copy the new c2.db file in the location shown in the following steps!
 ie: when we move this from a private ip to a public ip.
 
@@ -33,5 +33,6 @@ Now we are going to set up the c2 so it starts as a service whenever the device 
 ```sudo mv c2.db /var/cloudc2```
 
 ![systemprep](https://github.com/user-attachments/assets/bd69c2f1-2e1b-4193-8df0-ac9bfab9615a)
+
 
 
