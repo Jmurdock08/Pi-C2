@@ -31,3 +31,7 @@ Now we are going to set up the c2 so it starts as a service whenever the device 
 ```sudo mkdir /var/cloudc2```
 
 ```sudo mv c2.db /var/cloudc2```
+
+![systemprep](https://github.com/user-attachments/assets/bd69c2f1-2e1b-4193-8df0-ac9bfab9615a)
+
+
