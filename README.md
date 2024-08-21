@@ -1,7 +1,19 @@
 <h1 style='font-size: 65px'; align="center">PI-C2</h1>
 
-Self Hosted CloudC2 on Raspberry Pi for your HAK5 devices to connect to!
-This will not run without a license from HAK5. You can get the community edition for free [Here](https://shop.hak5.org/products/c2#c2-versions) 
+<h1>Table of Contents</h1>
+
+- [Introduction](#doc_introduction)
+- [Videos](#doc_vids)
+- [Install Guide](#doc_install)
+    - [GPS Install](#gps_install)
+    - [KISMET Install](#kismet_install)
+- [Running Kismet](#undecided_running)
+- [Other Projects](#doc_Other)
+- [Notice](#doc_statement)
+
+# Pi-C2 <a name = "doc_introduction"></a>
+
+Build a self Hosted CloudC2 on Raspberry Pi for your HAK5 devices to connect to! This will not run without a license from HAK5. You can get the community edition for free [Here](https://shop.hak5.org/products/c2#c2-versions) 
 
 ***To validate the license the Pi must be connected to the internet!!!***
 
