@@ -18,7 +18,7 @@ This is a project for those of us who would like to self host an cloudc2 instanc
 ***To validate the license the Pi must be connected to the internet!!!***
 
 # Instalation and Requirements <a name = "doc_install"></a>
-# GPS Installation <a name = "c2piinstall_install"></a>
+# Installing C2 on the Pi <a name = "c2piinstall_install"></a>
 ```wget -q https://c2.hak5.org/download/latest -O cloudc2.zip```
 
 ![wget](https://github.com/user-attachments/assets/e7bfc623-f58c-4e9b-af1c-c00e91594ca0)
