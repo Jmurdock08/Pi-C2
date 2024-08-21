@@ -81,3 +81,8 @@ Now we must validate our c2 instance by entering the appropriate token (This was
 ![c2tokensetup](https://github.com/user-attachments/assets/a5a1a9bc-266a-46ab-bd7d-6a775760fa3c)
 
 If you are running this internally in your homelab theres no need to continue past this point. However if you want to be able to access it from anywhere in the world continue!
+
+# Other Projects <a name = "doc_Other"></a>
+**PI-C2**\
+*Written by: Jmurdock08*\
+https://github.com/Jmurdock08/Pi-C2
