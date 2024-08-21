@@ -11,9 +11,9 @@
 - [Other Projects](#doc_Other)
 - [Notice](#doc_statement)
 
-# Pi-C2 <a name = "doc_introduction"></a>
+# Why Raspberry Pi on Cloud C2? <a name = "doc_introduction"></a>
 
-Build a self Hosted CloudC2 on Raspberry Pi for your HAK5 devices to connect to! This will not run without a license from HAK5. You can get the community edition for free [Here](https://shop.hak5.org/products/c2#c2-versions) 
+This is a project for those of us who would like to self host an cloudc2 instance locally who may not have a lot of resources. The CloudC2 on Raspberry Pi allows your HAK5 devices to connect! This will not run without a license from HAK5. You can get the community edition for free [Here](https://shop.hak5.org/products/c2#c2-versions) 
 
 ***To validate the license the Pi must be connected to the internet!!!***
 
